@@ -1,2 +1,5 @@
-# PucMinas-Cul.Pra.Dat.MLO-Atividades
-Cultura e Práticas Dataops e Mlops
+# Cultura e Práticas Dataops e Mlops
+
+## Atividades
+
+- [Atividade 01](./Atividade_01/)
