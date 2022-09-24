@@ -1,0 +1,6 @@
+sepal_length,sepal_width,petal_length,petal_width,class,classEncoder,messageError
+5.0,3.0,1.6,20,Iris-setosa,0,petal_width maior que 3.5
+4.6,15,1.0,0.2,Iris-setosa,0,sepal_width maior que 4.4
+5.2,3.4,39,0.2,Iris-setosa,0,petal_length maior que 6.9
+15,3.9,1.7,0.4,Iris-setosa,0,sepal_length maior que 7.9
+5.7,15,1.5,0.4,Iris-setosa,0,sepal_width maior que 4.4

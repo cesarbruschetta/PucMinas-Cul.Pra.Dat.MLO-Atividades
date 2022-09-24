@@ -24,7 +24,6 @@ ETL utilizando o Pyspark.
 - Todos os dados que não se encontram no formato ou range correto devem ser excluídos do dataset.
 - Criar um arquivo com os registros removidos contendo a mensagem do erro conforme exemplo:
 
-```csv
-sepal_length,sepal_width,petal_length,petal_width,class,classEncoder,messageError
-5.1,3.5,1.4,0.2,Iris-setosa,0, sepal_width maior que 4.4
-```
+|sepal_length|sepal_width|petal_length|petal_width|class      |classEncoder|messageError              |
+|------------|-----------|------------|-----------|-----------|------------|--------------------------|
+|5.1         |3.5        |1.4         |0.2        |Iris-setosa|0           | sepal_width maior que 4.4|
