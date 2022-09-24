@@ -3,3 +3,4 @@
 ## Atividades
 
 - [Atividade 01](./Atividade_01/)
+- [Atividade 02](./Atividade_02/)
